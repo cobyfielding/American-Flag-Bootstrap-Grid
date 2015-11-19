@@ -1,0 +1,38 @@
+
+
+.container-fluid{
+	margin-top:50px;
+	
+}
+
+.fa {
+    background-color:blue;
+    color:#fff;
+    padding:10px 15px;
+    text-align:center;
+    text-transform:uppercase;
+    font-weight:500;
+    margin-left:3%;
+    }
+
+.star {
+	background-color:blue;
+}
+
+.red {
+	background-color:red;
+	padding:1.25em;
+}
+
+.white {
+	background-color:white;
+	padding:1.25em;
+}
+
+p {
+	text-align:center;
+}
+
+body {
+	background-color:black;
+}
